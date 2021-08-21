@@ -14,11 +14,12 @@ You can also install TkinterDnD2 from pypi: ```pip install tkinterdnd2```
 2) Copy the TkinterDnD2 directory to ```...\Python\Lib\site-packages```<br/>
 If you installed it from pypi - skip this step
 
+<br/>
 
 ### My code usage example:
 
-```
-# Drag_and_drop("title", "comment", "icon.ico", sorting by files and folders)
 
+#### Drag_and_drop(```"title"```, ```"comment"```, ```"icon.ico"```, ```sorting by files and folders```)
+```
 files = Drag_and_drop(title="TkinterDnD Canvas", comment='Drag and drop files here:', icon=None, sort=False)
 ```
