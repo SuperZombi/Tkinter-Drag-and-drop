@@ -24,7 +24,7 @@ files = Drag_and_drop(title="TkinterDnD Canvas", comment='Drag and drop files he
 ```
 
 <br/>
-I also added a function to delete the selected element when pressing the <code>Delete</code> key, but I did not have time to make update the coordinates of the remaining elements. If you do - I will be very grateful.
+I also added a function that deletes the selected element when pressing the <code>Delete</code> key, but I did not have time to make update the coordinates of the remaining elements. If you do - I will be very grateful.
 <br/><br/><br/>
 
 ### Media:
