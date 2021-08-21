@@ -18,6 +18,8 @@ If you installed it from pypi - skip this step
 
 ### My code usage example:
 
+<img src="image_preview.png" height="350px">
+
 
 #### Drag_and_drop(```"title"```, ```"comment"```, ```"icon.ico"```, ```sorting by files and folders```)
 ```
