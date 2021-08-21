@@ -23,3 +23,6 @@ If you installed it from pypi - skip this step
 ```
 files = Drag_and_drop(title="TkinterDnD Canvas", comment='Drag and drop files here:', icon=None, sort=False)
 ```
+
+<br/>
+I also added a function to delete the selected element when pressing the Delete key, but I did not have time to make update the coordinates of the remaining elements. If you do - I will be very grateful.
