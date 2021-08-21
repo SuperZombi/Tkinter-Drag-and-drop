@@ -1,6 +1,6 @@
 # Tkinter-Drag-and-drop
 
-### Install
+### Install:
 
 Download from this github repo or from this sourse:
 
@@ -14,12 +14,9 @@ You can also install TkinterDnD2 from <a href="https://pypi.org/project/tkinterd
 2) Copy the TkinterDnD2 directory to ```...\Python\Lib\site-packages```<br/>
 If you installed it from pypi - skip this step
 
-<br/>
+<br/><br/>
 
 ### My code usage example:
-
-<img src="image_preview.png" height="350px">
-
 
 #### Drag_and_drop(```"title"```, ```"comment"```, ```"icon.ico"```, ```sorting by files and folders```)
 ```
@@ -28,3 +25,9 @@ files = Drag_and_drop(title="TkinterDnD Canvas", comment='Drag and drop files he
 
 <br/>
 I also added a function to delete the selected element when pressing the <code>Delete</code> key, but I did not have time to make update the coordinates of the remaining elements. If you do - I will be very grateful.
+<br/><br/><br/>
+
+### Media:
+
+<img src="image_preview.png" height="350px">
+<img src="video_preview.gif" height="500px">
