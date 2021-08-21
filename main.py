@@ -179,8 +179,8 @@ def Drag_and_drop(title="TkinterDnD Canvas", comment='Drag and drop files here:'
 
 
 
-#files = Drag_and_drop("Выбор файлов", "Перетащите сюда ваши файлы:", "D:\\Python\\Chrome plugins\\Sublime Text.ico", True)
-#files = Drag_and_drop("Выбор файлов", "Перетащите сюда ваши файлы:", sort=True)
+#files = Drag_and_drop("Selecting files", "Drop files here:", "icon.ico", True)
+#files = Drag_and_drop("Selecting files", "Drop files here:", sort=True)
 files = Drag_and_drop("Выбор файлов", "Перетащите сюда файлы:")
 if files:
     print(files)
